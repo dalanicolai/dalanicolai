@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+Funny github stats
+
 [![Dala's github stats](https://github-readme-stats.vercel.app/api?username=dalanicolai)](https://github.com/anuraghazra/github-readme-stats)
+-->
