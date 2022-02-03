@@ -18,7 +18,9 @@ Gitter](https://gitter.im/syl20bnr/spacemacs/).
   support](https://lists.gnu.org/archive/html/emacs-devel/2022-01/msg00976.html)
   this feature will be available in pdf-tools also, when using the new
   alternative pdf-tools server (see next point)
-* [alternative pdf-tools server](https://github.com/vedang/pdf-tools/pull/61)
+* [alternative pdf-tools server](https://github.com/vedang/pdf-tools/pull/61) An
+  alternative backend for pdf-tools written in python using the
+  [pymupdf](https://pymupdf.readthedocs.io/en/latest/) library
 * [toc-mode](https://melpa.org/#/toc-mode): The best way to add a (missing)
   Table of Contents/Outline to your PDF or DJVU documents.
 * [mediator](https://github.com/dalanicolai/mediator): Provides an 'open with'
