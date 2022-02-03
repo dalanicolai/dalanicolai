@@ -8,28 +8,12 @@ On this page you'll find an overview of my projects and activities. More
 information about me and my interests, you can find on [my (not, yet, very
 elaborate) blog](https://dalanicolai.github.io/notes/). As you will probably
 notice from the information below, I am a quite active contributor to Spacemacs
-and also you can often find me providing support in on the [Spacemacs
+and also you can often find me providing support at the [Spacemacs
 Gitter](https://gitter.im/syl20bnr/spacemacs/).
-
-### Kickstarter
-I have a Kickstarter page for fully implementing continuous scroll in Emacs
-doc-view and pdf-tools. Besides that, I have developed an alternative PDF server
-for pdf-tools, to extend its editing and annotation features (and increase
-hackability).
-
-Although I am spending almost zero, my current income is even less still.
-Therefore I am hoping that, for the moment, users that can afford it, an whom
-enjoy my projects or find them useful (if not for yourself then maybe for others
-still, in the end it is a donation to Emacs) could support my projects on
-TODO (create link) [Kickstarter], or make a small donation for any other reason if
-they feel like it.
 
 ## Projects
 ### Emacs
 * [pdf-continuous-scroll-mode](https://github.com/dalanicolai/pdf-continuous-scroll-mode.el):
-  TODO(insert link) A much simpler, but not very optimal solution, to the
-  solution as proposed in my Kickstarter project, is this two buffer hack that
-  quite nicely provides continuous scrolling in PDF-tools
 * [create patch for doc-view EPUB
   support](https://lists.gnu.org/archive/html/emacs-devel/2022-01/msg00976.html)
   this feature will be available in pdf-tools also, when using the new
