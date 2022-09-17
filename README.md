@@ -13,7 +13,7 @@ Gitter](https://gitter.im/syl20bnr/spacemacs/).
 
 ## Projects
 ### Emacs
-* [pdf-continuous-scroll-mode](https://github.com/dalanicolai/pdf-continuous-scroll-mode.el):
+* [image-roll](https://github.com/dalanicolai/image-roll.el) (successor of [pdf-continuous-scroll-mode](https://github.com/dalanicolai/pdf-continuous-scroll-mode.el))
 * [create patch for doc-view EPUB
   support](https://lists.gnu.org/archive/html/emacs-devel/2022-01/msg00976.html)
   this feature will be available in pdf-tools also, when using the new
