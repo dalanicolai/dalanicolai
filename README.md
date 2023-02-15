@@ -8,8 +8,9 @@ On this page you'll find an overview of my projects and activities. More
 information about me and my interests, you can find on [my (not, yet, very
 elaborate) blog](https://dalanicolai.github.io/notes/). As you will probably
 notice from the information below, I am a quite active contributor to Spacemacs
-and also you can often find me providing support at the [Spacemacs
-Gitter](https://gitter.im/syl20bnr/spacemacs/).
+and also you can often find me providing support at [Emacs
+stackexchange](https://emacs.stackexchange.com/users/26163/dalanicolai) and the
+[Spacemacs Gitter](https://gitter.im/syl20bnr/spacemacs/) channel.
 
 ## Projects
 ### Emacs
