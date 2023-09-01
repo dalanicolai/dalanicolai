@@ -37,7 +37,7 @@ stackexchange](https://emacs.stackexchange.com/users/26163/dalanicolai) and the
   also, like e.g. the sketching features in
   [TeXmacs](https://www.texmacs.org/tmweb/home/welcome.en.html)).
 * [djvu3](https://github.com/dalanicolai/djvu3): Extension to djvu.el to make it
-  a full featured pdf-viewer (besides being a powerful editor).
+  a full featured djvu viewer (besides being a powerful editor).
 * [Spacemacs EAF layer](https://develop.spacemacs.org/layers/+tools/eaf/README.html)
 * [Spacemacs djvu layer](https://develop.spacemacs.org/layers/+readers/djvu/README.html)
 * [Various personal Spacemacs layers](https://github.com/syl20bnr/spacemacs/discussions/14757#discussioncomment-714850)
