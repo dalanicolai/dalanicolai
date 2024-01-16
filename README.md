@@ -5,8 +5,7 @@ I am an enthusiastic free software developer with a predilection for
 [Spacemacs](https://www.spacemacs.org/) in particular.
 
 On this page you'll find an overview of my projects and activities. More
-information about me and my interests, you can find on [my (not, yet, very
-elaborate) blog](https://dalanicolai.github.io/notes/). As you will probably
+information about me and my interests, you can find on [my blog](https://dalanicolai.github.io/). As you will probably
 notice from the information below, I am a quite active contributor to Spacemacs
 and also you can often find me providing support at [Emacs
 stackexchange](https://emacs.stackexchange.com/users/26163/dalanicolai) and the
