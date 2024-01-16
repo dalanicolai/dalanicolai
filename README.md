@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I am an enthusiastic free software developer with a predilection for
-[Emacs](https://www.gnu.org/software/emacs/) and for
-[Spacemacs](https://www.spacemacs.org/) in particular.
+[Emacs](https://www.gnu.org/software/emacs/) and
+[Spacemacs](https://www.spacemacs.org/).
 
 On this page you'll find an overview of my projects and activities. More
 information about me and my interests, you can find on [my blog](https://dalanicolai.github.io/). As you will probably
